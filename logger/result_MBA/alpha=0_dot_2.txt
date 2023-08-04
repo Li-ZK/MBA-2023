@@ -1,0 +1,120 @@
+result_MBA_improve
+seed :1300
+epochs :5000
+epoch of best result: 727
+train loss: 0.0871, train R2: 0.8882, train RMSEC: 0.5462, train MSE: 0.2984,train MAE: 0.4410
+test loss: 0.1229, test R2: 0.8816, test RMSEP: 0.6597,test MSE: 0.4352, test MAE: 0.5174
+SDR: 2.9060
+epoch of final result:
+train loss: 0.0415, train R2: 0.9412, train RMSEC: 0.3703,train MSE: 0.1371, train MAE: 0.3053
+test loss: 0.1399, test R2: 0.8651, test RMSEP: 0.7041,test MSE: 0.4957, test MAE: 0.5437
+SDR: 2.7228
+
+result_MBA_improve
+seed :1301
+epochs :5000
+epoch of best result: 3485
+train loss: 0.0397, train R2: 0.9503, train RMSEC: 0.3577, train MSE: 0.1280,train MAE: 0.2907
+test loss: 0.1203, test R2: 0.8511, test RMSEP: 0.6679,test MSE: 0.4461, test MAE: 0.5061
+SDR: 2.5912
+epoch of final result:
+train loss: 0.0303, train R2: 0.9602, train RMSEC: 0.3299,train MSE: 0.1088, train MAE: 0.2612
+test loss: 0.1264, test R2: 0.8436, test RMSEP: 0.6844,test MSE: 0.4685, test MAE: 0.5276
+SDR: 2.5285
+
+result_MBA_improve
+seed :1303
+epochs :5000
+epoch of best result: 3071
+train loss: 0.0386, train R2: 0.9531, train RMSEC: 0.3588, train MSE: 0.1287,train MAE: 0.2884
+test loss: 0.1410, test R2: 0.8524, test RMSEP: 0.7124,test MSE: 0.5076, test MAE: 0.5375
+SDR: 2.6027
+epoch of final result:
+train loss: 0.0346, train R2: 0.9574, train RMSEC: 0.3441,train MSE: 0.1184, train MAE: 0.2768
+test loss: 0.1454, test R2: 0.8478, test RMSEP: 0.7234,test MSE: 0.5233, test MAE: 0.5516
+SDR: 2.5632
+
+result_MBA_improve
+seed :1304
+epochs :5000
+epoch of best result: 695
+train loss: 0.0750, train R2: 0.9002, train RMSEC: 0.5104, train MSE: 0.2605,train MAE: 0.4036
+test loss: 0.1336, test R2: 0.8809, test RMSEP: 0.6823,test MSE: 0.4655, test MAE: 0.5420
+SDR: 2.8972
+epoch of final result:
+train loss: 0.0472, train R2: 0.9413, train RMSEC: 0.3959,train MSE: 0.1567, train MAE: 0.3160
+test loss: 0.1503, test R2: 0.8660, test RMSEP: 0.7235,test MSE: 0.5235, test MAE: 0.5834
+SDR: 2.7322
+
+result_MBA_improve
+seed :1305
+epochs :5000
+epoch of best result: 959
+train loss: 0.0786, train R2: 0.9077, train RMSEC: 0.5192, train MSE: 0.2696,train MAE: 0.4153
+test loss: 0.1226, test R2: 0.8747, test RMSEP: 0.6629,test MSE: 0.4394, test MAE: 0.5243
+SDR: 2.8250
+epoch of final result:
+train loss: 0.0405, train R2: 0.9472, train RMSEC: 0.3709,train MSE: 0.1376, train MAE: 0.2970
+test loss: 0.1323, test R2: 0.8648, test RMSEP: 0.6886,test MSE: 0.4741, test MAE: 0.5384
+SDR: 2.7197
+
+result_MBA_improve
+seed :1306
+epochs :5000
+epoch of best result: 458
+train loss: 0.0953, train R2: 0.8923, train RMSEC: 0.5692, train MSE: 0.3240,train MAE: 0.4527
+test loss: 0.1585, test R2: 0.8650, test RMSEP: 0.7396,test MSE: 0.5469, test MAE: 0.5696
+SDR: 2.7218
+epoch of final result:
+train loss: 0.0370, train R2: 0.9578, train RMSEC: 0.3517,train MSE: 0.1237, train MAE: 0.2798
+test loss: 0.1742, test R2: 0.8517, test RMSEP: 0.7753,test MSE: 0.6011, test MAE: 0.5833
+SDR: 2.5964
+
+result_MBA_improve
+seed :1308
+epochs :5000
+epoch of best result: 3323
+train loss: 0.0402, train R2: 0.9508, train RMSEC: 0.3742, train MSE: 0.1400,train MAE: 0.2926
+test loss: 0.1469, test R2: 0.8385, test RMSEP: 0.7304,test MSE: 0.5335, test MAE: 0.5476
+SDR: 2.4886
+epoch of final result:
+train loss: 0.0420, train R2: 0.9523, train RMSEC: 0.3780,train MSE: 0.1429, train MAE: 0.3026
+test loss: 0.1561, test R2: 0.8285, test RMSEP: 0.7529,test MSE: 0.5668, test MAE: 0.5570
+SDR: 2.4145
+
+result_MBA_improve
+seed :1309
+epochs :5000
+epoch of best result: 3596
+train loss: 0.0595, train R2: 0.9267, train RMSEC: 0.4431, train MSE: 0.1963,train MAE: 0.3602
+test loss: 0.1248, test R2: 0.8799, test RMSEP: 0.6640,test MSE: 0.4409, test MAE: 0.4913
+SDR: 2.8851
+epoch of final result:
+train loss: 0.0387, train R2: 0.9568, train RMSEC: 0.3584,train MSE: 0.1285, train MAE: 0.2848
+test loss: 0.1321, test R2: 0.8728, test RMSEP: 0.6832,test MSE: 0.4667, test MAE: 0.4972
+SDR: 2.8042
+
+result_MBA_improve
+seed :1313
+epochs :5000
+epoch of best result: 1374
+train loss: 0.0818, train R2: 0.8901, train RMSEC: 0.4993, train MSE: 0.2493,train MAE: 0.4135
+test loss: 0.1391, test R2: 0.8561, test RMSEP: 0.7069,test MSE: 0.4996, test MAE: 0.5628
+SDR: 2.6361
+epoch of final result:
+train loss: 0.0364, train R2: 0.9559, train RMSEC: 0.3560,train MSE: 0.1267, train MAE: 0.2809
+test loss: 0.1510, test R2: 0.8438, test RMSEP: 0.7365,test MSE: 0.5424, test MAE: 0.5883
+SDR: 2.5302
+
+result_MBA_improve
+seed :1317
+epochs :5000
+epoch of best result: 2510
+train loss: 0.0569, train R2: 0.9359, train RMSEC: 0.4303, train MSE: 0.1852,train MAE: 0.3503
+test loss: 0.1708, test R2: 0.8432, test RMSEP: 0.7739,test MSE: 0.5989, test MAE: 0.6158
+SDR: 2.5253
+epoch of final result:
+train loss: 0.0506, train R2: 0.9410, train RMSEC: 0.4083,train MSE: 0.1667, train MAE: 0.3429
+test loss: 0.1795, test R2: 0.8352, test RMSEP: 0.7934,test MSE: 0.6295, test MAE: 0.6273
+SDR: 2.4632
+

@@ -1,0 +1,54 @@
+!!python/object:argparse.Namespace
+test_mode: internal
+dataset: blueberry
+train_csv_path_list:
+- ./data/mean_sample_mask_20221015_904.5_0.4_0.75.csv
+- ./data/mean_sample_mask_20221021_904.5_0.4_0.75.csv
+- ./data/mean_sample_mask_20221028_904.5_0.4_0.75.csv
+- ./data/mean_sample_mask_20221104_904.5_0.4_0.75.csv
+- ./data/mean_sample_mask_20230217_904.5_0.4_0.75.csv
+train_mat_path_list:
+- ./data/data_image_1.mat
+- ./data/data_image_1.mat
+- ./data/data_image_1.mat
+- ./data/data_image_1.mat
+- ./data/data_image_1.mat
+train_split_rate: 0.8
+refresh_rate: 100
+num_workers: 0
+model: MBA
+y_is_standard: true
+property: 0
+checkpoint: ''
+mode: train
+epochs: 5000
+lr: 0.001
+batch_size: 64
+test_batch_size: 1000
+weight_decay: 0.0
+seed_1300:
+  seed: 1300
+  model_best_result:
+    train loss: '0.0871'
+    train R2: '0.8882'
+    train RMSEC: '0.5462'
+    train MSE: '0.2984'
+    train MAE: '0.4410'
+    test loss: '0.1229'
+    test R2: '0.8816'
+    test RMSEP: '0.6597'
+    test MSE: '0.4352'
+    test MAE: '0.5174'
+    SDR: '2.9060'
+  model_result:
+    train loss: '0.0415'
+    train R2: '0.9412'
+    train RMSEC: '0.3703'
+    train MSE: '0.1371'
+    train MAE: '0.3053'
+    test loss: '0.1399'
+    test R2: '0.8651'
+    test RMSEP: '0.7041'
+    test MSE: '0.4957'
+    test MAE: '0.5437'
+    SDR: '2.7228'
