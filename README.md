@@ -78,13 +78,26 @@ And make corresponding modifications to other relevant parts(**config.py -> Cons
 If you use this code, or otherwise found our work valuable, please cite:
 
 ```latex
-TBD
-@inproceedings{MBA,
-  title={A Quantitative Spectra Analysis Framework Combining Mixup and Band
-Attention for Predicting Soluble Solid Content of Blueberries},
-  author={Zhaokui Li, Jinen Zhang, Wei Li, Fei Li, Ke Bi, and Hongli Li},
-  booktitle={},
-  year={2023}
+@InProceedings{10.1007/978-3-031-40292-0_30,
+author="Li, Zhaokui
+and Zhang, Jinen
+and Li, Wei
+and Li, Fei
+and Bi, Ke
+and Li, Hongli",
+editor="Jin, Zhi
+and Jiang, Yuncheng
+and Buchmann, Robert Andrei
+and Bi, Yaxin
+and Ghiran, Ana-Maria
+and Ma, Wenjun",
+title="A Quantitative Spectra Analysis Framework Combining Mixup and Band Attention for Predicting Soluble Solid Content of Blueberries",
+booktitle="Knowledge Science, Engineering and Management",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="366--373",
+isbn="978-3-031-40292-0"
 }
 ```
 
